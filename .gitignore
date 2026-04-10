@@ -1,0 +1,16 @@
+.venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+dataset/images/
+output/
+leaf_model.keras
+dataset_and_model.zip
+temp_training_data/
+dataset_train/
+dataset_predict/
+dataset_train_augmented/
+output_transform/
+dataset_and_model/
